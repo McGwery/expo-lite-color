@@ -1,6 +1,6 @@
 {
   "name": "expo-lite-color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Take your React Native and JavaScript projects to the next level with Expo Lite Color. Whether it's green, blue, or any shade in between, effortlessly create captivating color gradations. Perfectly tailored for React Native and JavaScript developers, this package simplifies color management, giving your app's visuals a professional touch.",
   "main": "dist/index.js",
   "module": "dist/index.m.js",
