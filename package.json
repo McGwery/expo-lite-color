@@ -1,0 +1,21 @@
+{
+  "name": "expo-lite-color",
+  "version": "1.0.0",
+  "description": "color group for expo react native projects",
+  "main": "dist/index.js",
+  "module": "dist/index.m.js",
+  "unpkg": "dist/index.umd.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rm -rf dist && microbundle --tsconfig tsconfig.json --no-sourcemap"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [],
+  "license": "ISC",
+  "author": "McGwery",
+  "devDependencies": {
+    "microbundle": "^0.15.1"
+  }
+}
